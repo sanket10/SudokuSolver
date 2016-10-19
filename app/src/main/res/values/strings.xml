@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sudoku</string>
+    <string name="solve_it">SOLVE IT</string>
+    <string name="reset">RESET</string>
+</resources>
